@@ -1,0 +1,4 @@
+{
+	"source": "./modules/cache",
+	"destination": "./dist/docs/cache"
+}
