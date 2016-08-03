@@ -1,4 +1,4 @@
 {
-	"source": "./modules/cache",
-	"destination": "./dist/docs/cache"
+	"source": "./modules/entityType",
+	"destination": "./dist/docs/entityType"
 }

@@ -5,10 +5,8 @@ var path = require('path');
 const config = {
   entry: {
     tests: 'mocha!./tests',
-    testModels: './modules/cache/worker/tests/models',
     vendor: [
-      'lodash',
-      'nuclear-js',
+      'immutable',
       'chai'
     ]
   },
